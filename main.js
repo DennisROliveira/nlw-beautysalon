@@ -147,4 +147,4 @@ window.addEventListener('scroll', function () {
   activateMenuAtCurrentSection()
 })
 
-fixedMenu()
+/*fixedMenu()*/
